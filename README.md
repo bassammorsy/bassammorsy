@@ -21,6 +21,9 @@ Currently seeking internships in **PCB design**, **FPGA/RTL**, **embedded system
 
 ## 🚀 Projects
 
+### ✈️ [STM32F405 Quadcopter Flight Controller](https://github.com/bassammorsy/stm32-flight-controller)
+Designed a custom 4-layer flight controller PCB from scratch in KiCad targeting Betaflight compatibility with 4S–6S LiPo input. Integrated 5 peripheral sensors across SPI, I2C, and UART buses — ICM-42688-P IMU, BMP388 barometer, QMC5883L magnetometer, SAM-M10Q GPS, and AT7456E OSD. Implemented a two-stage power architecture with a TPS54360DDA buck converter and SPX3819 LDO, calculated all passive values from datasheets, sourced a 43-component BOM, and submitted for SMT assembly through JLCPCB.
+
 ### 🔴 [Automatic Laser Tracking Device](https://github.com/bassammorsy/Automatic-Laser-Tracking-Device)
 Real-time computer vision targeting system. Python/OpenCV pipeline detects colored objects at 60fps, maps target pixel coordinates to servo angles, and streams commands over serial at 115200 baud to an Arduino-controlled pan-tilt laser turret.
 
@@ -32,13 +35,6 @@ Designed a SystemVerilog UART receiver and RTL compute pipeline on an FPGA to de
 
 ### 🔌 [MSPM0 USB Development Board](https://github.com/bassammorsy/MSPM0-USB-Development-Board)
 Designed a 2-layer PCB featuring the TI MSPM0 microcontroller with USB-C via CH340 UART bridge. Routed 61 nets across 205 pads with dual-layer GND copper pour and I2C header breakout.
-
----
-
-## 💼 Experience
-
-**Hardware Engineer Intern — SAPESCO** *(Jun – Aug 2024)*
-Designed and laid out multi-layer PCBs in Altium. Simulated analog/digital circuits in MATLAB. Operated oscilloscopes, multimeters, and function generators for PCB validation. Reworked PCB assemblies using soldering iron and hot air stations.
 
 ---
 
