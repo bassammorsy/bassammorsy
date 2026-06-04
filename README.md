@@ -2,8 +2,6 @@
 
 Electrical and Computer Engineering student at the **University of Washington Seattle** (GPA: 3.78, graduating May 2028). I build things at the intersection of hardware and software — from custom PCBs and FPGA RTL design to embedded firmware and computer vision systems.
 
-Currently seeking internships in **PCB design**, **FPGA/RTL**, **embedded systems**, and **firmware/harware engineering**.
-
 ---
 
 ## 🔧 What I Work With
